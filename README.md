@@ -2,7 +2,7 @@
 
 Tutorial
 
-Not intended for public use.
+Not intended for public use. The insecure packages haven't been removed.
 
 ## DISCLAIMER
 
